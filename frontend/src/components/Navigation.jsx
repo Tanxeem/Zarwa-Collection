@@ -26,27 +26,27 @@ function Navigation() {
                                     <div className="submenu absolute top-[0%] opacity-0 transition-all left-[100%] min-w-[200px] bg-white shadow-md">
                             <ul>
                                 <li className='list-none w-full'>
-                                    <Link to="/men">
+                                    <Link to="/t-shirt">
                                     <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>T-Shirt</Button>
                                     </Link>
                                 </li>
                                 <li className='list-none w-full'>
-                                    <Link to="/women">
+                                    <Link to="/jeans">
                                     <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>Jeans</Button>
                                     </Link>
                                 </li>
                                 <li className='list-none w-full'>
-                                    <Link to="/kids">
-                                    <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>Footware</Button>
+                                    <Link to="/footwear">
+                                    <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>Footwear</Button>
                                     </Link>
                                 </li>
                                 <li className='list-none w-full'>
-                                    <Link to="/girls">
+                                    <Link to="/watch">
                                     <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>Watch</Button>
                                     </Link>
                                 </li>
                                 <li className='list-none w-full'>
-                                    <Link to="/boys">
+                                    <Link to="/trouser">
                                     <Button className='!text-[rgba(0,0,0,0.8)] !rounded-none w-full !text-left !justify-start !font-semibold'>Trouser</Button>
                                     </Link>
                                 </li>
